@@ -5,9 +5,16 @@ We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-universi
 
 ## What is SeeNear?
 Modern society is transitioning to an aging society across the globe, with South Korea in particular estimated to have a senior citizen ratio of about 40% in 2060. The problem of the elderly living alone is particularly acute, with about 60% of the elderly living alone currently aged 65 or older, a number that is expected to increase in the future. However, only 16% of seniors are currently receiving help, and the number of seniors managed by each social worker is 25.  
-So SeeNear aims to provide the elderly with periodic alarms and chatbots through the application to continuously check their health and psychological status. The name of SeeNear combines the words "보다" for "see" and 이가까이" for "near", which means to help seniors up close.
+So SeeNear aims to provide the elderly with periodic alarms and chatbots through the application to continuously check their health and psychological status. The name of SeeNear combines the words "보다" for "see" and "가까이" for "near", which means to help seniors up close.
 
 ## Feature
+### Sign up  
+SeeNear uses a phone number to sign up for seniors, and we also use phone numbers to link seniors and their caregivers' accounts. This is to accommodate seniors who may not be familiar with OAuth like email.   
+### User
+Users are asked questions about their health or psychological state through three alarms: morning, noon, and evening. Important but simple questions are answered by checking an O or X through a checkbox. If the user needs to talk about a specific case, they can answer the question with their voice through the Speech-to-Text API. The chatbot will then give the appropriate answer, and the user's input will be delivered to Admin in the form of a report.
+### Admin
+The admin receives the user's answers in the form of a report with statistics. The report highlights keywords such as hospitals, body parts, and diseases, and visualizes sentiment scores to make it easier for admins to understand. It also includes information about medications the user needs to take so they don't forget. 
+
 
 ## Demo Video
 
