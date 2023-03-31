@@ -21,7 +21,7 @@ The admin receives the user's answers in the form of a report with statistics. T
 ## Repository
 [Android](https://github.com/GDSC-seeNear/FE) - Kotlin  
 [BackEnd](https://github.com/GDSC-seeNear/BE) - Java, Spring Boot    
-[AI-Chatbot](https://github.com/GDSC-seeNear/AI_chatbot) - Pytorch, Huggingface, Tensorflow  
+[AI-Chatbot](https://github.com/GDSC-seeNear/AI_chatbot) - Pytorch, Huggingface, Tensorflow(lite)  
 [AI-Named Entity Recognition](https://github.com/GDSC-seeNear/NER) - Pytorch, Huggingface  
 [AI-Sentiment Analysis](https://github.com/GDSC-seeNear/sentiment_repository) - Pytorch  
 
