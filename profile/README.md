@@ -1,6 +1,7 @@
 # SeeNear
 </br>
-Participate 2023 Google Solution Challenge     
+Participate 2023 Google Solution Challenge  
+
 We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-university-of-science-and-technology/).
 </br>
 ## What is SeeNear?
