@@ -37,7 +37,7 @@ The administrator receives the user's answers in the form of a report with stati
    <tr>
       <td colspan="1" align="center"><strong>Android</strong></td>
       <td colspan="1" align="center"><strong>Back-End</strong></td>
-      <td colspan="2" align="center"><strong>AI</strong></td>
+      <td colspan="2" align="center"><strong>DL/AI</strong></td>
    </tr>
   <tr>
      <td align="center">
