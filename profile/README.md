@@ -1,16 +1,13 @@
 # SeeNear
-</br>
 Participate 2023 Google Solution Challenge  
 
 We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-university-of-science-and-technology/).
 </br>
 ## What is SeeNear?
-</br>
 Modern society is transitioning to an aging society across the globe, with South Korea in particular estimated to have a senior citizen ratio of about 40% in 2060. The problem of the elderly living alone is particularly acute, with about 60% of the elderly living alone currently aged 65 or older, a number that is expected to increase in the future. However, only 16% of seniors are currently receiving help, and the number of seniors managed by each social worker is 25.  
 So SeeNear aims to provide the elderly with periodic alarms and chatbots through the application to continuously check their health and psychological status. The name of SeeNear combines the words "보다" for "see" and "가까이" for "near", which means to help seniors up close.
 </br>
 ## Feature
-</br>
 ### Sign up  
 SeeNear uses a phone number to sign up for seniors, and we also use phone numbers to link seniors and their caregivers' accounts. This is to accommodate seniors who may not be familiar with OAuth like email.   
 </br>
