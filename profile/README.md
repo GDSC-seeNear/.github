@@ -4,6 +4,8 @@ Participate 2023 Google Solution Challenge
 We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-university-of-science-and-technology/).
 
 ## What is SeeNear?
+Modern society is transitioning to an aging society across the globe, with South Korea in particular estimated to have a senior citizen ratio of about 40% in 2060. The problem of the elderly living alone is particularly acute, with about 60% of the elderly living alone currently aged 65 or older, a number that is expected to increase in the future. However, only 16% of seniors are currently receiving help, and the number of seniors managed by each social worker is 25.
+So SeeNear aims to provide the elderly with periodic alarms and chatbots through the application to continuously check their health and psychological status. The name of SeeNear combines the words "See" for "see" and "Near" for "near", which means to help seniors up close.
 
 ## Feature
 
